@@ -1,0 +1,7 @@
+- id: uptodate
+  name: uptodate
+  description: Keeps your git branch up to date.
+  entry: uptodate.sh
+  language: script
+  always_run: true
+  pass_filenames: false
